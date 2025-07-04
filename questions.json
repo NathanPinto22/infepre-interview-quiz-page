@@ -1,0 +1,16 @@
+{
+    "1":{
+        "question": "Which country has the highest life expectancy?",
+        "a":"Hong Kong",
+        "b":"India",
+        "c":"Japan",
+        "d":"USA"
+    },
+    "2":{
+        "question": "What is the most common surname in the United States?",
+        "a":" Smith",
+        "b":"Charles",
+        "c":"Dean",
+        "d":"Arthur"
+    }
+}
