@@ -97,7 +97,9 @@ nextButton.addEventListener("click", () => {
     prevButton.disabled = false;
     if (current_question === totalQuestions) nextButton.innerText = "Submit";
   } else {
-    handleSubmit();
+    if(confirm("Are you sure you want to submit your answers?")){
+      handleSubmit();
+    }
   }
 });
 
